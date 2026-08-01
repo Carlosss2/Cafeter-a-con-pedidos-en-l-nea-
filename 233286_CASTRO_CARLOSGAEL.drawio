@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="BQ_xPYkpFsg3M0Cl6exW">
+    <mxGraphModel dx="964" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K6DjJyUoVI-IYzScRqqc-10" edge="1" parent="1" source="K6DjJyUoVI-IYzScRqqc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="K6DjJyUoVI-IYzScRqqc-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K6DjJyUoVI-IYzScRqqc-14" connectable="0" parent="K6DjJyUoVI-IYzScRqqc-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;i data-path-to-node=&quot;10,3,0&quot; data-index-in-node=&quot;69&quot;&gt;Contrato de Servicio&lt;/i&gt;." vertex="1">
+          <mxGeometry relative="1" x="0.5943" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K6DjJyUoVI-IYzScRqqc-12" edge="1" parent="1" source="K6DjJyUoVI-IYzScRqqc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="K6DjJyUoVI-IYzScRqqc-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K6DjJyUoVI-IYzScRqqc-17" connectable="0" parent="K6DjJyUoVI-IYzScRqqc-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;i data-path-to-node=&quot;10,3,0&quot; data-index-in-node=&quot;69&quot;&gt;Contrato de Servicio&lt;/i&gt;." vertex="1">
+          <mxGeometry relative="1" x="0.6587" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K6DjJyUoVI-IYzScRqqc-13" edge="1" parent="1" source="K6DjJyUoVI-IYzScRqqc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="K6DjJyUoVI-IYzScRqqc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K6DjJyUoVI-IYzScRqqc-15" connectable="0" parent="K6DjJyUoVI-IYzScRqqc-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;i data-path-to-node=&quot;10,3,0&quot; data-index-in-node=&quot;69&quot;&gt;Contrato de Servicio&lt;/i&gt;." vertex="1">
+          <mxGeometry relative="1" x="0.2772" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K6DjJyUoVI-IYzScRqqc-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;i&gt;App cliente cafeteria&amp;nbsp;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="140" width="80" x="160" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="K6DjJyUoVI-IYzScRqqc-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ProcesarPedido" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="K6DjJyUoVI-IYzScRqqc-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;i data-path-to-node=&quot;10,1,0&quot; data-index-in-node=&quot;121&quot;&gt;GestionarLealtad&lt;/i&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="K6DjJyUoVI-IYzScRqqc-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;i data-path-to-node=&quot;10,1,0&quot; data-index-in-node=&quot;140&quot;&gt;ConsultarCatalogo&lt;/i&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
