@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Orden>
+    <IdCliente>CLI-233286</IdCliente>
+    <MetodoPago>TarjetaCredito</MetodoPago>
+    <Total>145.50</Total>
+    <Estado>Preparando</Estado>
+</Orden>
