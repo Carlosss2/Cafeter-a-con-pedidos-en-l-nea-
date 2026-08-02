@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Orden>
     <IdCliente>CLI-233286</IdCliente>
+    <Articulos>
+        <Articulo>ART-001</Articulo>
+        <Articulo>ART-002</Articulo>
+    </Articulos>
     <MetodoPago>TarjetaCredito</MetodoPago>
+    <NotasPreparacion>Sin azúcar, café americano</NotasPreparacion>
     <Total>145.50</Total>
     <Estado>Preparando</Estado>
 </Orden>

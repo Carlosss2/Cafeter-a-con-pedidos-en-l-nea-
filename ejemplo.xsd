@@ -4,7 +4,23 @@
         <xs:complexType>
             <xs:sequence>
                 <xs:element name="IdCliente" type="xs:string"/>
-                <xs:element name="MetodoPago" type="xs:string"/>
+                <xs:element name="Articulos">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Articulo" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="MetodoPago">
+                    <xs:simpleType>
+                        <xs:restriction base="xs:string">
+                            <xs:enumeration value="TarjetaCredito"/>
+                            <xs:enumeration value="TarjetaDebito"/>
+                            <xs:enumeration value="Efectivo"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+                </xs:element>
+                <xs:element name="NotasPreparacion" type="xs:string" minOccurs="0"/>
                 <xs:element name="Total" type="xs:decimal"/>
                 <xs:element name="Estado">
                     <xs:simpleType>
